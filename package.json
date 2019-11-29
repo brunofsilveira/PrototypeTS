@@ -1,0 +1,19 @@
+{
+  "name": "prototypets",
+  "version": "1.0.0",
+  "description": "PrototypeTS",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.ts"
+  },
+  "author": "Bruno Ferraz Silveira",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2016": "^6.24.1",
+    "babel-preset-stage-3": "^6.24.1"
+  }
+}
